@@ -12,7 +12,9 @@
 
 - 💬 Ask me about **React, Flask, Python or Javascript**
 
-- 📫 How to reach me **kuriaisac@gmail.com**
+- 📫 How to reach me **kuriaisac@gmail.com
+
+- ⚡ Fun fact **I think I can write lyrics with code**
 
 <p align="left">
 </p>
