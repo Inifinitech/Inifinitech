@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inifinitech" alt="inifinitech" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Vue, Angular**
+- 🌱 I’m currently learning **Firebase, Vue, Angular**
 
 - 👨‍💻 All of my projects are available at [https://isaac-kuria.vercel.app/](https://isaac-kuria.vercel.app/)
 
 - 💬 Ask me about **Python, Javascript React, Django, Fastapi or Flask **
 
-- 📫 How to reach me **kuriaisac@gmail.com or **0731341590
+- 📫 How to reach me **kuriaisac@gmail.com** or ```0731341590```
 
 - ⚡ Fun fact **I think I can write lyrics with code**
 
